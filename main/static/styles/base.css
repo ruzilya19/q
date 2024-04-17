@@ -15,7 +15,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     height: fit-content;
-    background-color:rgb(233, 192, 242);
+  
 }
 
 .nav-menu__list {
@@ -47,7 +47,7 @@ body {
 
 .main-content {
     padding: 1em 3em;
-    background-color: lavender;
+    background-color: rgb(239, 239, 248);
 }
 
 button {
@@ -59,6 +59,7 @@ button {
         padding: 3em 1em;
     }
 }
-footer{
-    background-color:rgb(233, 192, 242);
+
+.logo {
+    width: 35%;
 }
